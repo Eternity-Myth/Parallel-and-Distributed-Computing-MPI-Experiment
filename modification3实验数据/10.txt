@@ -1,0 +1,21 @@
+There are 78498 primes less than or equal to 1000000
+SIEVE (2)   0.002553
+There are 78498 primes less than or equal to 1000000
+SIEVE (2)   0.002981
+There are 78498 primes less than or equal to 1000000
+SIEVE (2)   0.002920
+There are 78498 primes less than or equal to 1000000
+SIEVE (2)   0.002781
+There are 78498 primes less than or equal to 1000000
+SIEVE (2)   0.002503
+There are 78498 primes less than or equal to 1000000
+SIEVE (2)   0.002745
+There are 78498 primes less than or equal to 1000000
+SIEVE (2)   0.002537
+There are 78498 primes less than or equal to 1000000
+SIEVE (2)   0.002612
+There are 78498 primes less than or equal to 1000000
+SIEVE (2)   0.002642
+There are 78498 primes less than or equal to 1000000
+SIEVE (2)   0.002784
+

@@ -1,0 +1,20 @@
+There are 9592 primes less than or equal to 100000
+SIEVE (16)   0.002581
+There are 9592 primes less than or equal to 100000
+SIEVE (16)   0.003320
+There are 9592 primes less than or equal to 100000
+SIEVE (16)   0.002036
+There are 9592 primes less than or equal to 100000
+SIEVE (16)   0.002175
+There are 9592 primes less than or equal to 100000
+SIEVE (16)   0.002863
+There are 9592 primes less than or equal to 100000
+SIEVE (16)   0.002194
+There are 9592 primes less than or equal to 100000
+SIEVE (16)   0.002543
+There are 9592 primes less than or equal to 100000
+SIEVE (16)   0.003024
+There are 9592 primes less than or equal to 100000
+SIEVE (16)   0.003671
+There are 9592 primes less than or equal to 100000
+SIEVE (16)   0.002579
