@@ -1,0 +1,20 @@
+There are 1229 primes less than or equal to 10000
+SIEVE (1)   0.000077
+There are 1229 primes less than or equal to 10000
+SIEVE (1)   0.000077
+There are 1229 primes less than or equal to 10000
+SIEVE (1)   0.000087
+There are 1229 primes less than or equal to 10000
+SIEVE (1)   0.000076
+There are 1229 primes less than or equal to 10000
+SIEVE (1)   0.000090
+There are 1229 primes less than or equal to 10000
+SIEVE (1)   0.000076
+There are 1229 primes less than or equal to 10000
+SIEVE (1)   0.000078
+There are 1229 primes less than or equal to 10000
+SIEVE (1)   0.000076
+There are 1229 primes less than or equal to 10000
+SIEVE (1)   0.000078
+There are 1229 primes less than or equal to 10000
+SIEVE (1)   0.000076

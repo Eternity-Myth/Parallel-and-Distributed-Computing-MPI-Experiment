@@ -1,0 +1,20 @@
+There are 168 primes less than or equal to 1000
+SIEVE (1)   0.000041
+There are 168 primes less than or equal to 1000
+SIEVE (1)   0.000039
+There are 168 primes less than or equal to 1000
+SIEVE (1)   0.000040
+There are 168 primes less than or equal to 1000
+SIEVE (1)   0.000040
+There are 168 primes less than or equal to 1000
+SIEVE (1)   0.000039
+There are 168 primes less than or equal to 1000
+SIEVE (1)   0.000042
+There are 168 primes less than or equal to 1000
+SIEVE (1)   0.000040
+There are 168 primes less than or equal to 1000
+SIEVE (1)   0.000040
+There are 168 primes less than or equal to 1000
+SIEVE (1)   0.000039
+There are 168 primes less than or equal to 1000
+SIEVE (1)   0.000051
