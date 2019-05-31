@@ -1,0 +1,13 @@
+https://www.cnblogs.com/LCcnblogs/p/6015096.html
+
+https://blog.csdn.net/xenonhu/article/details/78196443
+
+http://cse.csusb.edu/kay/cse525/
+
+https://cs.calvin.edu/courses/cs/374/homework/MPI/06/nathan/sieve1.c
+
+https://github.com/marius92mc/sieve-of-eratosthenes-with-MPI
+
+https://github.com/kayhangavahi/Sieving-Prime-Numbers
+
+https://github.com/JimmyWorks/Sieve_of_Eratosthenes_MPI_and_OpenMP
