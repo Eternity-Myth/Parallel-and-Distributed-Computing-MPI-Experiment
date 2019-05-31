@@ -1,0 +1,20 @@
+There are 664579 primes less than or equal to 10000000
+SIEVE (4)   0.084147
+There are 664579 primes less than or equal to 10000000
+SIEVE (4)   0.097643
+There are 664579 primes less than or equal to 10000000
+SIEVE (4)   0.083281
+There are 664579 primes less than or equal to 10000000
+SIEVE (4)   0.084504
+There are 664579 primes less than or equal to 10000000
+SIEVE (4)   0.083745
+There are 664579 primes less than or equal to 10000000
+SIEVE (4)   0.088596
+There are 664579 primes less than or equal to 10000000
+SIEVE (4)   0.085500
+There are 664579 primes less than or equal to 10000000
+SIEVE (4)   0.084206
+There are 664579 primes less than or equal to 10000000
+SIEVE (4)   0.104211
+There are 664579 primes less than or equal to 10000000
+SIEVE (4)   0.090044
